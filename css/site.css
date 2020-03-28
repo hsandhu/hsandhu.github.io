@@ -6,7 +6,23 @@ h1 {
   font-size: 4rem;
 }
 
-h1,
+h1 {
+  font-weight: 600;
+}
+
 h4 {
-  font-weight: bolder;
+  font-weight: 400;
+}
+
+a {
+  color: #116ce4;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.sub-header {
+  font-size: 0.9rem;
+  font-weight: normal;
 }
